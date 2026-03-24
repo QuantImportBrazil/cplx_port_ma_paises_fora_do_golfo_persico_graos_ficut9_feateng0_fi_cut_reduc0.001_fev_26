@@ -1,10 +1,13 @@
 
-# <img src="logo.png" alt="Logo QuantImport" width="70"> QuantImport  
-![Risk](https://img.shields.io/badge/Risk-Geopolitical%20Exposure-bd2d2d)  
+# <img src="logo.png" alt="Logo QuantImport" width="70"> QuantImport
+[![Texto](https://img.shields.io/badge/Cenário-Hormuz%20fechado%20indefinidamente-bd2d2d)](https://quantimportbrazil.github.io/cenario/)
 
+**[Home](https://quantimportbrazil.github.io/Sobre/)**  
+**[Demo](https://quantimportbrazil.github.io/Demo/)**  
 
-**[Home](https://quantimportbrazil.github.io/Sobre/)** | **[Voltar para Demos](https://quantimportbrazil.github.io/Demo/)**  
----  
+---   
+Emissão: 2026-03-24 18:24:08  
+---    
 
 ## Índice da Página
 
@@ -13,7 +16,7 @@
 
 ---
 
-## Análise ao longo do ano  
+### Análise ao longo do ano  
 ![](images/overview.png)  
 
 * O tamanho da marca "x verde" é proporcional à probabilidade da instância ocorrer.  
@@ -21,7 +24,7 @@
 
 ---
 
-## Análise mês a mês
+### Análise mês a mês
 
 
 ![](images/Janeiro.png)
