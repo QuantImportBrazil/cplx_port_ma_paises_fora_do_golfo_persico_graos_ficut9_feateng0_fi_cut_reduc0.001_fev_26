@@ -30,7 +30,9 @@ Aplicadas a séries históricas com até **15 anos de dados**.
 
 ## 📈 Análise Anual  
 
-![](images/overview.png?cache=20260325071903)
+![](images/overview.png?cache=20260325072548)
+
+
 
 **Leitura do gráfico:**  
 - O tamanho do **"X" verde** indica a probabilidade de ocorrência  
@@ -46,40 +48,64 @@ Aplicadas a séries históricas com até **15 anos de dados**.
 <br>
 
 #### Janeiro  
-![](images/Janeiro.png?cache=20260325071903)
+![](images/Janeiro.png?cache=20260325072548)
+
+
 
 #### Fevereiro  
-![](images/Fevereiro.png?cache=20260325071903)
+![](images/Fevereiro.png?cache=20260325072548)
+
+
 
 #### Março  
-![](images/Marco.png?cache=20260325071903)
+![](images/Marco.png?cache=20260325072548)
+
+
 
 #### Abril  
-![](images/Abril.png?cache=20260325071903)
+![](images/Abril.png?cache=20260325072548)
+
+
 
 #### Maio  
-![](images/Maio.png?cache=20260325071903)
+![](images/Maio.png?cache=20260325072548)
+
+
 
 #### Junho  
-![](images/Junho.png?cache=20260325071903)
+![](images/Junho.png?cache=20260325072548)
+
+
 
 #### Julho  
-![](images/Julho.png?cache=20260325071903)
+![](images/Julho.png?cache=20260325072548)
+
+
 
 #### Agosto  
-![](images/Agosto.png?cache=20260325071903)
+![](images/Agosto.png?cache=20260325072548)
+
+
 
 #### Setembro  
-![](images/Setembro.png?cache=20260325071903)
+![](images/Setembro.png?cache=20260325072548)
+
+
 
 #### Outubro  
-![](images/Outubro.png?cache=20260325071903)
+![](images/Outubro.png?cache=20260325072548)
+
+
 
 #### Novembro  
-![](images/Novembro.png?cache=20260325071903)
+![](images/Novembro.png?cache=20260325072548)
+
+
 
 #### Dezembro  
-![](images/Dezembro.png?cache=20260325071903)
+![](images/Dezembro.png?cache=20260325072548)
+
+
 
 </details>
 
